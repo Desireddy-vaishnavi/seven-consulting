@@ -1,1 +1,2 @@
 # seven-consulting
+Because this was my first assignment, I learned a lot from it. This is a one-time web page. Developing the basic framework of a web page is crucial in the development of a web page. This structure was created using the Bootstrap Grid system. I have totally grasped and comprehended the bootstrap grid system. In addition, I studied and used a variety of CSS features such as border-radius, alignment, and so on. And I had a fantastic time working on this project.
