@@ -1,0 +1,250 @@
+.logo{
+	width:100%;
+	height:100px;
+	background-color:white;
+}
+.nav{
+	width:100%;
+	height:100px;
+	background-color: white;
+	flex-direction: row;
+	justify-content:end;
+	align-content:center;
+    display:flex;
+	align-items: center;
+}
+ul{
+	list-style-type:none;
+	margin: 0%;
+}
+a{
+	display: block;
+	padding: 8px;
+	background-color: black;
+}
+.sec1{
+	padding:100px;
+	background-image:url(background.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.content{
+	width:100%;
+	height:450px;
+	color:white;
+}
+.image{
+	width:100%;
+	height:450px;
+    position:relative;
+}
+.img1{
+	background-image:url(img2.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:300px;
+	width:300px;
+	background-position:center;
+	border-radius:0px 50px 0px 50px;
+	position:absolute;
+	top:5px;
+	left:70px;
+	border-top:4px solid gold;
+}
+.img2{
+	background-image:url(img1.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	height:250px;
+	width:250px;
+	border-radius:50px 0px 50px 0px;
+	position: absolute;
+	top:170px;
+	left:250px;
+	border-top:4px solid gold;
+}
+.button{
+	width:100%;
+	height:50px;
+}
+.button1{
+	width:100%;
+	height:50px;
+	color: black;
+}
+.span1{
+   width:100%;
+   height:100px;   
+   color:white;
+   display:flex;
+
+}
+.sec2{
+	padding:80px;
+ }
+.heading{
+	width:100%;
+	height:300px;
+}
+.para{
+	width:100%;
+	height:300px;
+}
+.why{
+   border-left:1.5px solid gray ;
+   border-right:1.5px solid  gray;
+   text-align:center;
+}
+.our{
+   border-right:1.5px solid  gray;
+   text-align:center;
+}
+.achieve{
+	border-right:1.5px solid  gray;
+	text-align:center;
+}
+.sec3{
+	border-spacing: 10px,50px;
+	border-collapse: separate;
+	border-bottom: 10px;
+    height:500px;
+ }
+.class1{
+	width: 100%;
+	height:200px;
+	align-items:center;
+	background-color: white;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	box-shadow: 1px 1px 1px 1px gray;
+	margin-bottom:30px;
+ }
+.sec4{
+	text-align: center;
+}
+.consultation{
+	width: 100%;
+	height:350px;
+	background-image:url(background.png);
+	background-repeat:no-repeat;
+	background-size: cover;
+	color:white;
+	padding:50px;
+}
+.sec5{
+	padding:50px;
+}
+.product{
+	width:100%;
+	height:300px;
+}
+.online{
+	width:100%;
+	height:300px;
+}
+.progress-bar{
+	background-color: orange;
+}
+.sec6{
+	width: 100%;
+	height:400px;
+}
+.paragraph{
+	width:100%;
+	height:200px;
+	position:relative;
+}
+.number{
+    position:absolute;
+	top:0px;
+	left:0px;
+	font-size:170px;
+	opacity:20px;
+}
+.gray{
+	position: absolute;
+	top:85px;
+	left:60px;
+}
+.formelement{
+	width:250px;
+	height:40px;
+}
+.call{
+	width: 100%;
+	height:400px;
+	background-color:rgb(231, 225, 225);
+	text-align:center;
+	padding:50px;
+	
+}
+.sec8{
+	margin-top:40px;
+	margin-bottom: 40px;
+}
+.paragraph{
+	width: 100%;
+	height:350px;
+}
+.video{
+	width:100%;
+	height:300px;
+}
+.sec9{
+	height:250px;
+}
+.comment{
+	width:100%;
+	height:230px;
+	padding:40px;
+	box-shadow: 1px 1px 1px 1px grey;
+}
+footer{
+	background-image: url(background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+    color: white;
+    padding:50px;
+}
+.terms{
+	border-right:1.5px solid gray;
+	border-left:1.5px solid gray;
+}
+.seven{
+	width:100%;
+	height:350px;
+}
+.contact{
+	width:100%;
+	height:350px;
+}
+.recent{
+	width:100%;
+	height:350px;
+}
+hr{
+	background-color: rgb(111, 111, 111);
+}
+.footer{
+	width:100%;
+	height:50px;
+	align-items: center;
+	color: gray;
+}
+.icon{
+	width:100%;
+	height:50px;
+	color:gray;
+	text-align:right;
+}
+.id{
+	margin-bottom: 40px;
+}
+.id1{
+	margin-top:20px;
+}
+.btn1{
+	margin-top:20px;
+}
